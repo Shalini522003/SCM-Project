@@ -1,10 +1,10 @@
 body {
 	margin: 0;
-	padding: 0;
-	font-size: 16px;
-	line-height: 1.5;
+	padding:1 px;
+	font-size: 89px;
+	line-height: 1;
 	font-family: sans-serif;
-	background-color: #e7e7e7;
+	background-color: cyan;
 }
 a {
 	text-decoration: none;
